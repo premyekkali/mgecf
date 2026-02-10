@@ -5,6 +5,6 @@ A small governance framework focused on:
 - Gradual parameter changes
 - Time delayed execution
 - Role rotation
-- More fatures maybe added
+- More features may be added
 
 Current status: early-stage project brainstorming.
